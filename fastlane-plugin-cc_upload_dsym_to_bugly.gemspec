@@ -7,10 +7,10 @@ require 'fastlane/plugin/upload_dsym_to_bugly/version'
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-cc_upload_dsym_to_bugly'
   spec.version       = Fastlane::UploadDsymToBugly::VERSION
-  spec.author        = 'liubo'
-  spec.email         = 'liubo004@126.com'
+  spec.author        = 'pengchao'
+  spec.email         = 'hunter858@sina.cn'
 
-  spec.summary       = 'upload_dsym_to_bugly'
+  spec.summary       = 'cc_upload_dsym_to_bugly'
   spec.homepage      = "https://github.com/hunter858/cc_upload_dsym_to_bugly"
   spec.license       = "MIT"
 
